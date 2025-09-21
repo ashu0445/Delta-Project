@@ -1,2 +1,3 @@
 # Delta-Project
-This is the project repos
+This is the project repositery.
+
